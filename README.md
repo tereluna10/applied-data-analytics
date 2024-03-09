@@ -1,2 +1,2 @@
-# applied-data-analytics
-Data works
+# Applied Data Analytics
+Data works and other fun projects
